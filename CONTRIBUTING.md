@@ -1,61 +1,53 @@
-# Contributing to our SE Project-2
+# Contributing to the Project
 
-Thanks for showing your interest in contributing for our Project 2 repository. When contributing to this repository, there are certain guidelines to be followed. Please discuss the changes you wish to make with the owners of the repository via email, issue or any other mode of communication.
+Thank you for considering contributing to our project! Here are some guidelines to help you get started.
 
-# Code of Conduct 
+## How to Contribute
 
-By participating and contributing to this project, you agree to uphold our [Code of Conduct](CODE_OF_CONDUCT.md). Any unacceptable behaviour can be reported to svangal@ncsu.edu 
+1. **Fork the repository**: Click the "Fork" button at the top right of the repository page.
+2. **Clone your fork**: Clone your forked repository to your local machine.
 
-Prerequisites to contribute to our project: 
-  1. Must be a graduate student at North Carolina State University. 
-  2. Must be enrolled in CSC 510.
- 
- # How to Contribute
-Any contributions to this repository can be made via Issues and Pull Requests.
+    ```bash
+    git clone https://github.com/csc510-group11/FashionRecommender.git
+    ```
 
-### Issues
-- Issues should be used to report problems, request a new feature, or to discuss potential changes.
-- Search for existing issues before creating your own. If you find any, add your own information to the existing issue.
-- Make sure to create an issue before you actually start dveloping and contributing to the project. The newly created issue must have 
-  - Well-defined description about the bug or enhancement.
+3. **Create a branch**: Create a new branch for your feature or bugfix.
 
-### Pull Requests
-We always welcome pull requests which is one of the best ways to get your fix or enhancement in the next release. 
-Pull Requests should have the following content:
-  - What is the change about 
-  - Why is the change/enhancement required 
-Pull requests to be made by following these goals:
-  - Maintaining the project quality 
-  - Fix the problems that are important to the user
-  - Make sure your contribution is available for review to the project maintainers. 
-  - Add test cases to the changed or added functionality.
-  - Include documentation in the repo.
-Before your pull request being accepted the reviewers may ask you to additional changes. 
+    ```bash
+    git checkout -b feature-or-bugfix-name
+    ```
 
-### How to report bugs:
+4. **Make changes**: Make your changes to the codebase.
+5. **Commit changes**: Commit your changes with a meaningful commit message.
 
-This section guides you through submitting a bug report for SE-HW.
-Following this helps the maintainers of the repo and the community as a whole to understand the bug, methods to reporduce it and find bugs related to it.
+    ```bash
+    git commit -m "Description of the changes"
+    ```
 
-Before filing a bug, please make sure to:
+6. **Push changes**: Push your changes to your forked repository.
 
-* Check the debugging guide
-* Check the FAQs, if any.
+    ```bash
+    git push origin feature-or-bugfix-name
+    ```
 
-### Install Git 
-Install and configure [Git](https://git-scm.com/) on your local machine.
+7. **Create a Pull Request**: Open a pull request to the main repository. Provide a clear description of your changes and any related issues.
 
-Follow the steps in the link to [Set Up Git](https://docs.github.com/en/github/getting-started-with-github/quickstart)
+## Code of Conduct
 
-### Install Python3
-	Use the guide to install Python3 on your system: https://docs.python.org/3/using/< your OS >.html
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions with the project.
 
-Here, <your OS> is the Opearting System of your machine.
+## Reporting Issues
 
+If you find a bug or have a feature request, please create an issue in the [issue tracker](https://github.com/csc510-group11/FashionRecommender/issues).
 
-### Fork Repository
-To contribute code to our product, push code to your own fork and open Pull Requests in the [GitHub repository](https://github.com/arvindsrinivas1/vogueX---Fashion-Recommender)
-# Styleguides 
-### Git Commit messages 
-  - Describe the need of change
-  - Describe the limitations of current code
+## Style Guide
+
+- Follow the coding style used in the project.
+- Write clear and concise commit messages.
+- Include comments and documentation where necessary.
+
+## Testing
+
+Ensure that your changes do not break existing tests and add new tests for your changes if applicable.
+
+Thank you for your contributions!
