@@ -99,59 +99,75 @@ Whether you're a fashion enthusiast or just need a quick outfit suggestion, **Vo
 
 ## Core Functionalities of the Application
 
-### Personalized Search Filters - Find the perfect outfit for every occasion!
+### Personalized Search Filters - Find the perfect outfit for every occasion
 
 VogueX offers a wide range of search filters to help you find the perfect outfit for any occasion. Whether you're looking for a casual day out or a formal event, VogueX has you covered. With filters like weather, season, and occasion, you can easily narrow down your search and find the perfect outfit in no time.
 
-### Recommendations - Discover the latest trends and styles!
+[![Personalized Search Filters](./uploads/images/search-filters.png)](./uploads/images/search-filters.png)
+
+### Recommendations - Discover the latest trends and styles
 
 VogueX provides personalized recommendations based on your search filters and preferences. Whether you're looking for a trendy outfit or a classic look, VogueX has something for everyone. With a wide range of options to choose from, you can easily find the perfect outfit for any occasion.
 
-### Favourites - Curate your personal collection of top picks!
+[![Recommendations](./uploads/images/recommendations.png)](./uploads/images/recommendations.png)
+
+### Favourites - Curate your personal collection of top picks
 
 VogueX allows you to save your favorite outfits to your profile so you can easily access them later. Whether you're browsing through recommendations or creating your own outfits, you can save your top picks and curate your personal collection of outfits.
 
-### Top Fashion Blogs - Explore the leading voices in fashion and style!
+[![Favourites](./uploads/images/favourites.png)](./uploads/images/favourites.png)
+
+### Top Fashion Blogs - Explore the leading voices in fashion and style
 
 VogueX features a curated list of top fashion blogs to keep you updated on the latest trends and styles. Whether you're looking for fashion inspiration or tips on how to style your outfits, VogueX has you covered. With a wide range of blogs to choose from, you can explore the leading voices in fashion and style.
 
-### Your Search Journey - Keep track of your discoveries and pick up right where you left off!
+[![Top Fashion Blogs](./uploads/images/fashion-blogs.png)](./uploads/images/fashion-blogs.png)
+
+### Your Search Journey - Keep track of your discoveries and pick up right where you left off
 
 VogueX keeps track of your search history so you can easily revisit your past searches and discoveries. Whether you're looking for outfit recommendations or browsing through fashion blogs, you can pick up right where you left off and continue your search journey with ease.
 
-### Trendy Sites - Discover the most popular fashion sites and stay trendy!
+[![Your Search Journey](./uploads/images/search-journey.png)](./uploads/images/search-journey.png)
+
+### Trendy Sites - Discover the most popular fashion sites and stay trendy
 
 VogueX provides direct links to the most popular fashion sites so you can stay updated on the latest trends and styles. Whether you're looking for new outfit ideas or shopping for the latest fashion trends, VogueX has you covered. With direct links to top fashion sites, you can easily discover the most popular fashion sites and stay trendy.
 
-### Feedback Mechanism - Share your thoughts and help us improve your experience!
+[![Trendy Sites](./uploads/images/trendy-sites.png)](./uploads/images/trendy-sites.png)
+
+### Feedback Mechanism - Share your thoughts and help us improve your experience
 
 VogueX features a feedback mechanism that allows you to share your thoughts and suggestions with us. Whether you have feedback on the app's features or recommendations for new functionality, we want to hear from you. With your feedback, we can improve your experience and make VogueX even better.
+
+[![Feedback Mechanism](./uploads/images/feedback.png)](./uploads/images/feedback.png)
 
 ## Steps for execution
 
 It's really simple to run the application on your local machine. Just follow the steps below:
 
-Prerequisites: You will need to have Docker installed on your machine. If you don't have it installed, you can download it from [here](https://www.docker.com/products/docker-desktop).
+### Prerequisites
 
-Step 1: Git Clone the Repository
+You will need to have Docker installed on your machine. If you don't have it installed, you can download it from [here](https://www.docker.com/products/docker-desktop).
+
+### Step 1: Git Clone the Repository
 
 ```bash
 git clone https://github.com/csc510-group11/FashionRecommender.git
 ```
 
-Step 2: Change working directory to the repository
+### Step 2: Change working directory to the repository
 
 ```bash
 cd FashionRecommender
 ```
 
-Step 3: Run the following command to start the application
+### Step 3: Run the following command to start the application
 
 ```bash
 docker compose up -d
 ```
 
-Step 4: Open the URL in your browser:
+### Step 4: Open the URL in your browser:
 
 ```bash
 http://localhost:8000/
@@ -168,9 +184,9 @@ That's it! You can now enjoy using the application on your local machine.
 
 ## Team Members
 
-- Md Atiqur Rahman  
-- Nazia Afreen
-- Sohom Datta
+- [Md Atiqur Rahman](https://github.com/atiqur-rahman-0041)
+- [Nazia Afreen](https://github.com/NaziaAfreen015)
+- [Sohom Datta](https://github.com/sohomdatta1)
 
 ## Code of Conduct
 
