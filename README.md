@@ -14,6 +14,8 @@
 
 [![github workflow](https://github.com/csc510-group11/FashionRecommender/actions/workflows/style_checker.yml/badge.svg)](https://github.com/csc510-group11/FashionRecommender/actions/workflows/style_checker.yml)
 [![github workflow](https://github.com/csc510-group11/FashionRecommender/actions/workflows/main.yml/badge.svg)](https://github.com/csc510-group11/FashionRecommender/actions/workflows/main.yml)
+[![codecov](https://codecov.io/gh/SRN-SE-Fall24/FashionRecommender/branch/master/graph/badge.svg?token=PDVKSB4BAN)](https://codecov.io/gh/SRN-SE-Fall24/FashionRecommender)
+
 
 ![GitHub language count](https://img.shields.io/github/languages/count/csc510-group11/FashionRecommender)
 
