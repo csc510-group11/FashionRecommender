@@ -142,3 +142,6 @@ creds.json
 
 # Playgrounds
 playground/
+
+# macOS specific
+.DS_Store
