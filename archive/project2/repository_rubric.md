@@ -41,3 +41,4 @@ but nevertheless, here is a track record that everyone is contributing a lot)|[h
 |Badges showing any other Other automated analysis tools|[Readme.md](https://github.com/csc510-group11/FashionRecommender/blob/master/README.md)| 3 |
 
 Total: 105
+
