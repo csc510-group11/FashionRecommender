@@ -25,6 +25,8 @@
 
 ### VogueX - Tailor Made, Just for You  
 
+v4.0.0 released!!
+
 Ever planned the perfect outfit only to realize too late that the weather had other plans? Worry no more! VogueX is not just any fashion recommender—it’s your personal styling assistant that ensures you're dressed both stylishly and comfortably for any occasion.  
 
 VogueX goes beyond basic recommendations by factoring in:  
