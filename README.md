@@ -165,13 +165,27 @@ git clone https://github.com/csc510-group11/FashionRecommender.git
 cd FashionRecommender
 ```
 
-### Step 3: Run the following command to start the application
+### Step 3: Create a .env file in the root folder and set
+
+```
+LYKDAT_API_KEY='your_key_here'
+
+WEATHER_KEY='your_key_here'
+
+GEMINI_API_KEY='your_key_here'
+
+GOOGLE_IMAGES_API_KEY='your_key_here'
+
+GOOGLE_IMAGES_PROJ_CX='your_key_here'
+```
+
+### Step 4: Run the following command to start the application
 
 ```bash
 docker compose up -d
 ```
 
-### Step 4: Open the URL in your browser:
+### Step 5: Open the URL in your browser:
 
 ```bash
 http://localhost:8000/
