@@ -1,13 +1,6 @@
 ### Repository Rubric
 
 
-- The project repo **MUST** have a branch called `MAIN`. Groups will be assessed via their commit history (seen under "Insights") in `MAIN`. Projects where all group members are not actively making commits will lose marks, or the offending student may be expelled from the group.
-- Groups need to maintain an active discussion in some online forum. GitHub issue reports will be fun. Optionally, students can request a Discord channel. Projects where all group members are not active in discussions will either lose marks, or the offending student may be expelled from the group.
-
-
-Each team starts with full marks but **loses** 0.33 marks for missing items:
-
-
 |Notes|Evidence|Score|
 |-----|---------|--|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others... --|[https://github.com/csc510-group11/FashionRecommender/commits](https://github.com/csc510-group11/FashionRecommender/commits) | 3 
@@ -46,3 +39,5 @@ but nevertheless, here is a track record that everyone is contributing a lot)|[h
 |Badges showing your syntax checkers. |[Readme.md](https://github.com/csc510-group11/FashionRecommender/blob/master/README.md)| 3 |
 |Badges showing your code coverage tools|[Readme.md](https://github.com/csc510-group11/FashionRecommender/blob/master/README.md)| 3 |
 |Badges showing any other Other automated analysis tools|[Readme.md](https://github.com/csc510-group11/FashionRecommender/blob/master/README.md)| 3 |
+
+Total: 105
