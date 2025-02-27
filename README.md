@@ -17,6 +17,8 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/count/csc510-group11/FashionRecommender)
 
+[![DOI](https://zenodo.org/badge/937265974.svg)](https://doi.org/10.5281/zenodo.14938870)
+
 ## About the Project  
 
 ### VogueX - Tailor Made, Just for You  
